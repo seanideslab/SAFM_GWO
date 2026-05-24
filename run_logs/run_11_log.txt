@@ -1,0 +1,20 @@
+SAGM-GWO rolling-horizon restoration run log
+run_id: 11
+seed: 11
+system: modified IEEE 33-bus ADN
+population_size: 30
+iterations_limit: 100
+stagnation_limit: 20
+horizon_steps: 5
+delta_t_hours: 1
+osi_beta: 0.30
+osi_hysteresis_epsilon: 0.02
+erb_similarity_threshold: 0.85
+power_flow_solver: backward/forward sweep
+power_flow_tolerance: 1e-6
+cum_ens_kwh: 121.309
+critical_load_restoration_percent: 99.225
+total_switching_actions: 2.946
+average_vdi_pu: 0.04100
+avg_power_loss_kw: 113.083
+status: completed

@@ -1,0 +1,5 @@
+metric,exact_misocp_baseline,proposed_sagm_gwo
+Normalized Objective Gap,0% (Reference),<2.5%
+Solver Runtime,>3600 s (time limit reached),<4.5 s
+Solver MIP Gap,1.0%,
+Solver Version,CPLEX v12.6,

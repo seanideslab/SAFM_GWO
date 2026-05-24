@@ -1,0 +1,12 @@
+test,metric,statistic,p_value,significant_0_05
+Full RH-SAGM-GWO vs Snapshot-SAGM,cum_ens_kwh,0.0,1.862645149230957e-09,True
+Full RH-SAGM-GWO vs Snapshot-SAGM,critical_load_restoration_percent,0.0,1.862645149230957e-09,True
+Full RH-SAGM-GWO vs Snapshot-SAGM,total_switching_actions,1.0,3.725290298461914e-09,True
+Full RH-SAGM-GWO vs Snapshot-SAGM,average_vdi_pu,0.0,1.711606992411454e-06,True
+Full RH-SAGM-GWO vs RH-FixedWeight,cum_ens_kwh,1.0,3.725290298461914e-09,True
+Full RH-SAGM-GWO vs RH-FixedWeight,critical_load_restoration_percent,0.0,1.862645149230957e-09,True
+Full RH-SAGM-GWO vs RH-FixedWeight,total_switching_actions,2.0,5.587935447692871e-09,True
+Full RH-SAGM-GWO vs RH-FixedWeight,average_vdi_pu,27.0,2.326059961892021e-05,True
+Voltage-aware vs Nominal MST,min_v_pu,0.0,1.7105279932400777e-06,True
+Voltage-aware vs Nominal MST,overloads,31.0,5.513331125702858e-05,True
+Voltage-aware vs Nominal MST,ens_kwh,97.0,0.004338232800364494,True

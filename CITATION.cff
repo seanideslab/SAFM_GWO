@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset or scripts, please cite the associated paper."
+title: "Forecast-Guided Rolling-Horizon Self-Healing in Active Distribution Networks Using Stress-Adaptive Graph-Memory Grey Wolf Optimization"
+authors:
+  - family-names: Tsai
+    given-names: S. E.
+    orcid: "https://orcid.org/0000-0001-5946-6970"
+affiliation: "Department of Computer Science and Information Engineering, Chang Jung Christian University"
+year: 2026
+keywords:
+  - active distribution networks
+  - distribution system restoration
+  - rolling-horizon optimization
+  - grey wolf optimization
+  - self-healing
+license: MIT
+repository-code: "https://github.com/REPLACE_WITH_REPOSITORY_URL"

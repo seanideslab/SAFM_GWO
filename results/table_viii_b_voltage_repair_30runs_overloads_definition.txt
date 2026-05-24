@@ -1,0 +1,6 @@
+Definition of the overloads column in table_viii_b_voltage_repair_30runs.csv
+
+The overloads column is a signed thermal loading margin / violation index rather than a count of overload events.
+Positive values indicate the magnitude of thermal-limit violation across monitored branches; zero indicates no margin violation; negative values indicate remaining thermal capacity margin and therefore guarantee that no thermal violation occurred for the corresponding run/configuration.
+
+This convention explains entries such as -0.262 or -0.830: they represent feasible thermal margin, not negative overload events.

@@ -1,0 +1,7 @@
+component,complexity,runtime,role
+Forecasting,Inference,~5 ms,Minor share
+DFS inspection,O(|N|+|E|),~1.5 ms/call,Blocks invalid topologies
+V-aware MST repair,O(|E| log |E|),~0.8 ms/loop,Informed loop breaking
+B/F sweep PF,Iterative BFS,~80.3 ms/eval,Main bottleneck
+ERB retrieval,O(B),~2.0 ms,"Low cost, high acceleration"
+Overall RH,Population × iterations × PF,~3.5-4.5 s,Practical self-healing timing

@@ -1,0 +1,4 @@
+configuration,ens_kwh,critical_restoration_percent,avg_vdi,avg_vui,max_vui,worst_phase_voltage_pu,phase_overloads,runtime_s
+Balanced replay,148.7,97.2,0.039,0.042,0.068,0.938,3,3.8
+3ph eval. only,145.1,97.8,0.037,0.035,0.054,0.946,2,4.2
+3ph + VUI-aware,143.8,98.1,0.036,0.028,0.041,0.954,1,4.5

@@ -1,0 +1,6 @@
+event_id,time,event_type,affected_bus_or_branch,parameter_change
+F1,0,Permanent fault,branch:6-7,3ph fault; large de-energized area
+D1,2,Demand ramp,"bus:14,17",critical load +40%
+R1,3,PV collapse,"bus:22,26",PV output to 10%
+F2,4,Secondary fault,branch:25-29,tie corridor trip
+D2,6,Recovery,"bus:14,17",critical load returns nominal
